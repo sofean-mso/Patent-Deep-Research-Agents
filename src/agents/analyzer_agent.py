@@ -1,3 +1,5 @@
+# Copyright 2025 FIZ-Karlsruhe (Mustafa Sofean)
+
 from langchain_core.messages import SystemMessage, HumanMessage
 from langchain_openai import ChatOpenAI
 
