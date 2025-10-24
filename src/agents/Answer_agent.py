@@ -1,3 +1,5 @@
+# Copyright 2025 FIZ-Karlsruhe (Mustafa Sofean)
+
 from dotenv import load_dotenv
 import os
 
