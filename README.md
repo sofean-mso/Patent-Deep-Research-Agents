@@ -9,7 +9,7 @@ Advances in Large Language Models have enabled autonomous Deep Research agents t
 
 
 
-![archi](https://github.com/sofean-mso/Patent-Deep-Research-Agents/UI.ping)
+![archi](https://github.com/sofean-mso/Patent-Deep-Research-Agents/blob/main/UI.png)
 
 
 
